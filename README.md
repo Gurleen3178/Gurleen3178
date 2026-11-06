@@ -34,7 +34,18 @@ To become a skilled software developer by consistently learning, building projec
 I'm always open to learning, collaborating and connecting with fellow developers.
 
 
+### 🛠️ Languages & Technologies
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,cs,dotnet,git,github,vscode" />
+</p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gurleen3178&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurleen3178&layout=compact&theme=tokyonight" height="160"/>
+</p>
 <!--
 **Gurleen3178/Gurleen3178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
